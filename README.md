@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **vazquezguarin369@gmail.com**
 
-- 📄 Know about my experiences [[link]]([link])
-
 - ⚡ Goals **I hope one day I'd become a reliable developer!**
 
 <h3 align="left">Connect with me:</h3>
