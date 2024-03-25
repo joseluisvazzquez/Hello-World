@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python and Java, and also im learning the art of making videogames!**
 
-- 👨‍💻 All of my projects are available on [my repositories!!](https://github.com/joseluisvazzquez?tab=repositories)
+- 👨‍💻 All of my projects are available on [my repositories!!](https://github.com/joseluisvazzquez?tab=repositories) and [my XML Activities here!](https://joseluisvazzquez.github.io/LMarcas/index.html)
 
 - 📫 How to reach me **vazquezguarin369@gmail.com**
 
