@@ -1,4 +1,12 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/joseluisvazzquez/joseluisvazzquez/main/a4.gif"> </div>
+<style>
+  img{
+    border-radius: 30px;
+    };
+</style>
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div align="center"> <img src="https://raw.githubusercontent.com/joseluisvazzquez/joseluisvazzquez/main/a4.gif"> </div>
 <h1 align="center">Hi 👋, I'm Jose Luis Vazquez</h1>
 <h3 align="center">A passionate cross-platform application development student at CIDE.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseluisvazzquez" alt="joseluisvazzquez" /></a> </p>
@@ -23,11 +31,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseluisvazzquez&show_icons=true&locale=en&layout=compact" alt="joseluisvazzquez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseluisvazzquez&show_icons=true&locale=en" alt="joseluisvazzquez" /></p>
-<style>
-  img{
-    border-radius: 30px;
-    };
-</style>
-
+      
+    </div>
+  </foreignObject>
+</svg>
 
 
