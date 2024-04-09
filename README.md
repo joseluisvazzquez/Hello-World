@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/joseluisvazzquez/joseluisvazzquez/main/3a.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/joseluisvazzquez/joseluisvazzquez/main/a4.png"> </div>
 <h1 align="center">Hi 👋, I'm Jose Luis Vazquez</h1>
 <h3 align="center">A passionate cross-platform application development student at CIDE.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseluisvazzquez" alt="joseluisvazzquez" /></a> </p>
