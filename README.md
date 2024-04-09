@@ -27,6 +27,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseluisvazzquez&show_icons=true&locale=en&layout=compact" alt="joseluisvazzquez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseluisvazzquez&show_icons=true&locale=en" alt="joseluisvazzquez" /></p>
+<style>
+  img{
+    border-radius: 30px;
+  };
+  
+  
+</style>
       
   </div>
   </foreignObject>
