@@ -1,8 +1,4 @@
-<style>
-  img{
-    border-radius: 30px;
-    };
-</style>
+
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
@@ -32,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseluisvazzquez&show_icons=true&locale=en" alt="joseluisvazzquez" /></p>
       
-    </div>
+  </div>
   </foreignObject>
 </svg>
 
