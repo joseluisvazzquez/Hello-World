@@ -2,7 +2,7 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <div align="center"> <img class="image" src="https://raw.githubusercontent.com/joseluisvazzquez/joseluisvazzquez/main/a4.gif"> </div>
+      <div align="center"> <img class="image" src="https://raw.githubusercontent.com/joseluisvazzquez/joseluisvazzquez/main/banner.png"> </div>
 <h1 align="center">Hi 👋, I'm Jose Luis Vazquez</h1>
 <h3 align="center">A passionate cross-platform application development student at CIDE.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseluisvazzquez" alt="joseluisvazzquez" /></a> </p>
