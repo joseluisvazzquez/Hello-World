@@ -7,7 +7,7 @@
 <h3 align="center">I'm a passionate cross-platform application development student at CIDE.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseluisvazzquez" alt="joseluisvazzquez" /></a> </p>
 
-- 🔭 I’m currently working on [how to develop React based webs](https://joseluisvazzquez.github.io/LMarcas/Actividad20/index.html)
+- 🔭 I’m currently working on [how to develop React based webs](https://joseluisvazzquez.github.io/page-react/)
 
 - 🌱 I’m currently learning **GUI with javafx and Typescript!**
 
